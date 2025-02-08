@@ -4,8 +4,6 @@
 
 A simple and interactive **Tic Tac Toe** game built using **React JS** ⚛️. This project showcases the fundamentals of React, including component-based architecture, state management, and event handling.
 
-![Tic Tac Toe Gameplay](./src/Components/Assets/circle.png) ![Tic Tac Toe Gameplay](./src/Components/Assets/cross.png)
-
 ---
 
 ## 🚀 Features
@@ -19,9 +17,9 @@ A simple and interactive **Tic Tac Toe** game built using **React JS** ⚛️. T
 ---
 
 ## 🛠️ Tech Stack
-
-- ![React Logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React JS**: Frontend library for building user interfaces.
-- ![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS3**: Styling the components for a sleek UI.
+![React Logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+-  **React JS**: Frontend library for building user interfaces.
+-  **CSS3**: Styling the components for a sleek UI.
 
 ---
 
